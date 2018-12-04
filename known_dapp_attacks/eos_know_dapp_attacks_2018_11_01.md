@@ -7,5 +7,5 @@
 <div align=center><img src="https://github.com/peckshield/EOS/blob/master/known_dapp_attacks/dapp_attacks_summary_2018-11-01.png" alt="DApp安全事件数"/></div>
 
 ## EOS DApp安全事件列表
-截至2018年10月31日的安全事件列表
+截至2018年10月31日的安全事件列表：
 ![EOS DApp安全事件列表](eos_dapp_attacks_2018_11_01.png)

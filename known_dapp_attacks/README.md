@@ -7,7 +7,7 @@
 ![EOS DApp安全事件列表](dapp_attacks_summary.png)
 
 ## EOS DApp安全事件列表
-截至2018年12月03日的安全事件列表
+截至2018年12月03日的安全事件列表：
 ![EOS DApp安全事件列表](eos_dapp_attacks.png)
 
 ## EOS DApp安全事件历史版本
