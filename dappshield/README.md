@@ -30,10 +30,7 @@ cleos set account permission dappproxy active '{
 
 ```
 
-#### 2. 初始化 SDK 合約
-详细参考[控制台使用教程](前端功能)
-
-#### 3. 将 sdk/dappshield.hpp 拷贝到 DApp 项目目录下，并在项目中引用
+#### 2. 将 sdk/dappshield.hpp 拷贝到 DApp 项目目录下，并在项目中引用
 ```c++
 /*
  * 必须在 `include` 之前 `define` SDK 合约账号
@@ -43,7 +40,7 @@ cleos set account permission dappproxy active '{
 #include "dappshield.hpp"
 ```
 
-#### 4. SDK 支持一键熔断，能随时关停 DApp, 开发者可依需求设置
+#### 3. SDK 支持一键熔断，能随时关停 DApp, 开发者可依需求设置
 ```c++
 void apply( uint64_t receiver, uint64_t code, uint64_t action ) { \
    if( !checkenable() ) { eosio_exit(0); } \
