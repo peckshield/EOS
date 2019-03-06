@@ -4,7 +4,7 @@
 
 ## 概要
 截至2019年03月05日，共发生84起DApp安全事件，共损近82万个EOS
-![EOS DApp安全事件概要](dapp_attacks_summary.jgp)
+![EOS DApp安全事件概要](dapp_attacks_summary.jpg)
 
 ## EOS DApp安全事件列表
 截至2019年03月05日的安全事件列表：
