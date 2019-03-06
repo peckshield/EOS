@@ -4,7 +4,7 @@
 
 ## 概要
 截至2019年01月31日，共发生超过75起DApp安全事件，共损失超过78万个EOS
-<div align=center><img src="https://github.com/peckshield/EOS/blob/master/known_dapp_attacks/dapp_attacks_summary/dapp_attacks_summary_2019-02-01.jgp" alt="DApp安全事件数"/></div>
+<div align=center><img src="https://github.com/peckshield/EOS/blob/master/known_dapp_attacks/dapp_attacks_summary/dapp_attacks_summary_2019-02-01.jpg" alt="DApp安全事件数"/></div>
 
 ## EOS DApp安全事件列表
 截至2019年01月31日的安全事件列表：
